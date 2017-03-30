@@ -86,7 +86,7 @@
 
                     $name=$_POST['name'];
                     $plate=$_POST["plate"];
-                $result = mysqli_query($conn,"SELECT * FROM users WHERE username='$name'");
+                $result = mysqli_query($conn,"SELECT * FROM users WHERE username='$name' OR plateNum='$plate'");
                     ?>
                     <Table>
                         <br>
