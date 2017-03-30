@@ -1,0 +1,10 @@
+To run unit testing, please import the account.sql file to the phpMyadmin to build a database on Mysql.
+
+From here, a new customer need to register to make a reservation.To accomplish the registration, the user will be notified to 
+enter the first name,last name,password,email address,phone number and license plate number. The website will show a error 
+message when the confirmation password is different with the password entred at the first time. Next, the system will connect
+to the database to check whether the email address has already been used. When the double check finish, the new customer
+information will be uploaded to the account database.
+
+The unit testing will primarily involve trying to accomplish the registration without entering the the same confirmation password
+as the one first time entered.Also,trying to use the same email address to register a new account.
