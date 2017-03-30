@@ -1,5 +1,5 @@
 To run reservation interface and console interface, you might want to have a Mamp or xampp. Then import garage.sql(in garage file) at phpmyadmin 
-Make reservation: run localhost/garage/index.php 
+Make reservation: run localhost/garage/index.php (to test it ,user name: test   password(leave it blank or type in"test")
 Run console interface: run localhost/garage/console/index.php
 
 Shen Wang,Zhihao Guan
