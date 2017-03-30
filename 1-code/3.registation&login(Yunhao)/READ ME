@@ -1,0 +1,11 @@
+Introduction:
+The folder contains the code and images.The images are used as the background for the websites.
+code------------------------------------------------------------------------------------------------------------------------
+*The following files are CSS files and PHP files that include both HTML and PHP code within them:
+account.css,dbh.php and login.php,These files contains all the necessary files to uphold the web design and no need to click 
+them. 
+To run the website, the user need import account.sql file to build a local database on the computer.
+loginpage.php -> web page designed for the customer to login to access the whole website.
+account.php -> web page designed for the customer to finish registration.
+homepage.php -> web page designed as the homepage to integrate different funct of the garage as a whole.(This file has not been
+fully developed,i will accomplish it before demo 2)
