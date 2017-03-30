@@ -2,6 +2,6 @@ Reservation Test( Zhihao Guan):
 To test reservation interface, you need to have a mamp or xampp. Then inport garage.sql ( it is under 1-code/Reservation&Console Interface), then run localhost/garage/index.php. Username: test Password:test
 Then you can see the homepage. If you click on Parking State, you can see the current available and unavailable spots map.To test " make reservation" you can click on " Make  Reservation" and choose " Begin Time" and " End Time"  you will see the map-view of the whole garage and only green spots can be selected. After you click on one green spot, you can see" Reservation success" and the confirmation number. And this reservation is recorded in database which can be read from localhost/phpmyadmin/ . It is under garage database in "reservation" table.
 
-Manager Interface Test (Zhiheng Zhu)
 
+Manager Interface Test (Zhiheng Zhu):
 The website is tested for manager webpage based on a web server stack. First run the file manager.php then navigating to other pages on the site, and making sure all links are working properly and are connecting to the right place. In findUser.php fill in user name or plate number to get users’ information showing on the website. In add user page, input user’s name, plate number, and password and click submit, testing for duplicated user will not be added into database. After entering database webpage make sure the user’s information is correctly shown and added in the database.
