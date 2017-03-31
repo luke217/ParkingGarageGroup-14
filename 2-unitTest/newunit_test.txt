@@ -1,0 +1,13 @@
+new Testing
+
+While my function is still in the process of being tested, 
+the best way to test the file up to this point is to open
+the file on the localhost and the superlot gmail will send
+a text to my phone.  You can also test this on your phone
+by editing the $to variable to be your number and carrier
+provider in the email name.  The text box is for future use
+as the number will need to be input or taken from the data-
+base and updated for each user.  The email should be sent 
+as soon as the file is opened on the localhost.  If it is 
+not, check the readme and assure that you have the required 
+updates to your .ini files and send mail app.  
