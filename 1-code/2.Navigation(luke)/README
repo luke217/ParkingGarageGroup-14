@@ -1,4 +1,4 @@
 Hi! This is luke's part: Navigation algorithm!
 Basically, those three files have to be run on the localhost server and use the database from phpmyadmin as the others in the group.
 1.connection.php is just file to build connection between the php files and the database used.
-2.BuildGraph
+2.BuildAbstractedGraphfromGarage.php
