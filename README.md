@@ -1,6 +1,6 @@
 # ParkingGarageGroup-14
 1_code
-includes all your code with comments and README1.txt on how to run the code (see about README on Wikipedia)
+includes all our codes with comments and README1.txt on how to run the code (see about README on Wikipedia)
 2_unit_testing
 program code to run unit tests and README2.txt on how to run the unit tests
 3_integration_testing
