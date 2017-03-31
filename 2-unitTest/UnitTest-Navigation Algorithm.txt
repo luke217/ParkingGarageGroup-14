@@ -1,0 +1,15 @@
+Basically, those three files have to be run on the localhost server and use the database from phpmyadmin as the others in the group.
+1.connection.php is just file to build connection between the php files and the database used.
+2.BuildAbstractedGraphfromParkinglot.php is the basic algorithm that extracts the relevant information from the database, 
+and get weights ready for the graph where we will run the shortest path algorithm on.
+3.ShortestPath.php is the file to use the algorithm to process the weights obtained from the database and get the final solution of 
+navigation route to the assigned spot.
+
+Since the User Interface of Mobile App is not ready yet, so I just print out the routes to each possible spots on the website.
+
+Alert!
+Just open the shortestPath.php with link: localhost/shortestPath.php
+then you will see the results printed out on the website.
+
+UnitTest:
+Insert more reservation records in the database and simulate the case that incoming customer's requests the navigation route.
